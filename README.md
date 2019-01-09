@@ -1,2 +1,2 @@
 # ds_projects
-data structure project 1
+data structure projects in fudan data structure and algorithm design course
